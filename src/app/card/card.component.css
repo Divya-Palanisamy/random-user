@@ -1,0 +1,13 @@
+.card {
+  margin-top: 10rem;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+}
+img {
+  margin-top: -80px;
+}
+button {
+  width: 500px;
+  margin-left: -24px;
+}
